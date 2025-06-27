@@ -1,0 +1,22 @@
+{
+  "name": "Healthcare Calm Theme",
+  "dataColors": ["#4CAF50", "#2196F3", "#FF9800", "#9C27B0", "#F44336", "#00BCD4"],
+  "background": "#ffffff",
+  "foreground": "#333333",
+  "tableAccent": "#4CAF50",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [{
+          "color": "#333333",
+          "fontSize": 14,
+          "fontFamily": "Segoe UI"
+        }],
+        "labelText": [{
+          "color": "#666666",
+          "fontSize": 12
+        }]
+      }
+    }
+  }
+}
